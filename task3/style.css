@@ -1,0 +1,19 @@
+h4{
+    text-align: center;
+    align-items: center;
+    margin-top: 70px;
+    font-size: 30px;
+}
+button{
+    position: absolute;
+    margin-left: 46%;
+    background: blue;
+    font-size: 30px;
+    border-radius: 10px;
+    width: 120px;
+    height: 50px;
+    color: #fff;
+}
+button:hover{
+    background: rgb(60, 60, 140);
+}

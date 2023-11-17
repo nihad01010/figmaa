@@ -1,0 +1,14 @@
+*{
+    background: pink;
+}
+button{
+    font: 18px;
+    width: 120px;
+    height: 40px;
+    margin-left: 45%;
+    margin-top: 25%;
+    background: #fff;
+}
+button:hover{
+    background: green;
+}

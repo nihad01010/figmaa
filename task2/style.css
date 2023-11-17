@@ -1,0 +1,9 @@
+.border{
+    background: rgb(64, 12, 112);
+    border: 1px solid rgb(64, 12, 112);
+    width: 700px;
+    height: 500px;
+}
+.border:hover{
+    background: violet;
+}

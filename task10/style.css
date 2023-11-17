@@ -1,0 +1,22 @@
+*{
+    width: 550px;
+    margin-top: 90px;
+    margin-left: 180px;
+    
+}
+i{
+    color: rgb(67, 140, 67);
+}
+a{
+    color: rgb(2, 45, 2);
+
+}
+#nn{
+    text-decoration: none;
+    color: gray;
+    margin-left: 90%;
+}
+.g{
+    margin-left: 60%;
+    margin-top: -1px;
+}
